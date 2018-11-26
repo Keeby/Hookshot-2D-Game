@@ -1,0 +1,6 @@
+Run left - A
+Run Right - D
+Jump - W or Right Click
+Fire Hookshot - Hold click and release
+
+The goal of the game is to reach the 2nd flag, the ending flag, in as little time as possible.

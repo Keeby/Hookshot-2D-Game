@@ -1,0 +1,11 @@
+Platformer jumping sounds -> https://opengameart.org/content/platformer-jumping-sounds
+
+Character Controller code -> https://github.com/Brackeys/2D-Character-Controller
+
+Red arrow (google search) -> https://iconsplace.com/wp-content/uploads/_icons/ff0000/256/png/arrow-icon-14-256.png
+
+Sunnyland 2D platformer games kit (most tiles taken from here) -> https://assetstore.unity.com/packages/2d/characters/sunny-land-103349 
+
+Music "Lulluby of Flame" by DDRKirby(ISQ) -> http://ocremix.org/remix/OCR02603
+
+Everything else was created by me.
